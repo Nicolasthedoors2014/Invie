@@ -58,3 +58,14 @@ body{
   margin: auto;
   width: 800px;
 }
+
+.guitarra{
+  overflow: hidden;
+}
+.derecha{
+  float: right;
+}
+
+.izquierda{
+  float: left;
+}
