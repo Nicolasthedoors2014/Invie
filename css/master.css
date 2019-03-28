@@ -60,7 +60,14 @@ body{
 }
 
 .guitarra{
+  border: 2px solid #1F313C;
+  margin: 10px;
   overflow: hidden;
+  padding: 10px;
+}
+
+.guitarra ol{
+  padding: 0;
 }
 .derecha{
   float: right;
@@ -68,4 +75,12 @@ body{
 
 .izquierda{
   float: left;
+}
+
+.contenedor-guitarras-a{
+  padding-left: 20px;
+}
+
+.contenedor-guitarras-b{
+  margin-left: 370px;
 }
