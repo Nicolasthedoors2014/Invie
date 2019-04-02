@@ -64,6 +64,10 @@ button{
   margin-left: 30px;
 }
 
+.menu a {
+  text-decoration: none;
+}
+
 .logotipo {
   display: inline-block;
 }
@@ -101,4 +105,21 @@ button{
 
 .contenedor-guitarras-b{
   margin-left: 370px;
+}
+
+.footer{
+  background: #273b47;
+}
+
+.contacto img{
+  display: block;
+}
+
+.contacto strong{
+  display: block;
+}
+
+.contacto a{
+  color: white;
+  text-decoration: none;
 }
